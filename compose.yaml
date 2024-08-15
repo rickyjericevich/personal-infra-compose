@@ -1,0 +1,6 @@
+# see https://www.docker.com/blog/scaling-docker-compose-up/
+
+include:
+  - https://github.com/rickyjericevich/portainer-compose.git
+  - https://github.com/rickyjericevich/nginx-proxy-manager-compose.git
+  - https://github.com/rickyjericevich/netdata-compose.git
