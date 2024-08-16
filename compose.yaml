@@ -4,3 +4,4 @@ include:
   - https://github.com/rickyjericevich/portainer-compose.git
   - https://github.com/rickyjericevich/nginx-proxy-manager-compose.git
   - https://github.com/rickyjericevich/netdata-compose.git
+  - https://github.com/rickyjericevich/grocy-compose.git
